@@ -1,4 +1,4 @@
 dupond
 GIRARD
 durant
-NORDAL
+nordal
