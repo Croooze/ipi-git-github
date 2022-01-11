@@ -1,4 +1,4 @@
-DUPONT 
+dupond
 GIRARD
 DURAND
 NORDAL
